@@ -1,7 +1,7 @@
 #encoding=utf-8
 import requests,json,time
 
-# 主站 ID，小饭的
+# 主站 ID，麦子的
 mid=145149047
 # 延迟，单位秒
 delay=60
