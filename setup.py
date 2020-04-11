@@ -2,7 +2,7 @@
 import requests,json,time
 
 # 主站 ID，麦子的
-mid=145149047
+mid=4370617
 # 延迟，单位秒
 delay=60
 # 循环次数
